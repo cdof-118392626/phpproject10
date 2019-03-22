@@ -24,10 +24,10 @@ h1 {letter-spacing: 6px}
   
   <div class="w3-padding-32">
     <div class="w3-bar w3-border">
-      <a href="http://localhost:8000/interests.html" class="w3-bar-item w3-button">Interests</a>
-      <a href="http://localhost:8000/cv.html" class="w3-bar-item w3-button w3-light-grey">C.V</a>      
-      <a href="http://localhost:8000/Consulting_services_link.html" class="w3-bar-item w3-button">Consulting Services</a> 
-      <a href="http://localhost:8000/homepage.html" class="w3-bar-item w3-button w3-light-grey">Homepage</a>
+      <a href="interests.html" class="w3-bar-item w3-button">Interests</a>
+      <a href="cv.html" class="w3-bar-item w3-button w3-light-grey">C.V</a>      
+      <a href="Consulting_services_link.html" class="w3-bar-item w3-button">Consulting Services</a> 
+      <a href="homepage.html" class="w3-bar-item w3-button w3-light-grey">Homepage</a>
     </div>
   </div>
 </header>
